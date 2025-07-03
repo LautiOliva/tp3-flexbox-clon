@@ -45,7 +45,6 @@ tp3-flexbox-clon/
 
 ## ✨ Funcionalidades
 
-- Maquetación responsiva con Flexbox
 - Clon visual de un sitio dado como referencia
 - Uso correcto de etiquetas semánticas HTML
 - Separación de estructura (HTML) y estilos (CSS)
