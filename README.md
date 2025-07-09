@@ -8,13 +8,13 @@ Es parte de un trabajo práctico del curso de desarrollo web full stack.
 ## GIT PAGES
 
 🔗 [Ver proyecto en GitHub Pages](https://lautioliva.github.io/tp3-flexbox-clon/)  
-(Si todavía no lo publicaste, podés subirlo desde la configuración del repo en "Pages").
+
 
 ---
 
 ## 📸 Captura del sitio
 
-![Captura del sitio](img/Captura%20de%20pantalla%202025-07-03%20180646.png.png)
+![Captura del sitio](img/caputra-tp.png)
 
 ---
 
